@@ -1,0 +1,12 @@
+body{
+    background-color:#FFFFF0; 
+    font-family:Georgia;
+    font-size: 100%;
+}
+h1,article{
+    text-align: center;
+}
+
+.container{
+    text-align:center;	
+}
